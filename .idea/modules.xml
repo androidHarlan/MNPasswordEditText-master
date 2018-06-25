@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://G:\android\MNPasswordEditText-master\MNPasswordEditText.iml" filepath="G:\android\MNPasswordEditText-master\MNPasswordEditText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MNPasswordEditText-master.iml" filepath="$PROJECT_DIR$/MNPasswordEditText-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://G:\android\MNPasswordEditText-master\app\app.iml" filepath="G:\android\MNPasswordEditText-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pswedittextlibrary/pswedittextlibrary.iml" filepath="$PROJECT_DIR$/pswedittextlibrary/pswedittextlibrary.iml" />
+      <module fileurl="file://G:\android\MNPasswordEditText-master\pswedittextlibrary\pswedittextlibrary.iml" filepath="G:\android\MNPasswordEditText-master\pswedittextlibrary\pswedittextlibrary.iml" />
+    </modules>
+  </component>
+</project>
